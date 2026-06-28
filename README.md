@@ -30,7 +30,7 @@ Python · Pandas · Scikit-learn · PyTorch · Matplotlib · Seaborn · Power BI
 
 ## Currently
 
-Finishing my MSc in Data Science and looking for Data Analyst roles, particularly in hospitality, retail or any industry where the data actually connects to something real.
+Finishing my MSc in Data Science and looking for Data related roles, any industry where the data actually connects to something real.
 
 ---
  Connect with me on [LinkedIn](https://www.linkedin.com/in/piyush-warale-29pw727866) or drop me a message here on GitHub.
